@@ -1,0 +1,61 @@
+body{
+    background-color: antiquewhite;
+
+
+}
+.button{
+    text-decoration: aqua;
+    text-decoration-color: blue;
+
+}
+nav{
+    align-items: center;
+    display: flex;
+    margin: -2%;
+    justify-content: space-between;
+}
+nav ul{
+    list-style-type: none;
+    width: 98%;
+    text-align: right;
+    padding: 10px;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 2px 5px;
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+   width: 40px;
+}
+.wears{
+    width:200px;
+    height: 200px;
+    margin-top: -2%;
+}
+.span{
+    text-decoration-color: blue
+    ;
+}
+.classics{
+    display: flex;
+    justify-content: space-between;
+}
+.my outfits{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin:-8%;
+    width: 250px;
+    height: 250px;
+}
+.close{
+    margin: 10%;
+}
+.built{
+    display: flex;
+    justify-content: space-between;
+}
